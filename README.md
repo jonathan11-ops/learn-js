@@ -1,1 +1,1 @@
-# react-ts-learn
+# js basic
